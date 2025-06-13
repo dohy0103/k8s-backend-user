@@ -1,5 +1,5 @@
 spring:
   config:
     import:
-      - file:/etx/config/application-dev.yml
-      - file:/etx/secret/application-secret.yml
+      - file:/etc/config/application-dev.yml
+      - file:/etc/secret/application-secret.yml
